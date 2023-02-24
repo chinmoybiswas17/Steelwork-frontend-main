@@ -1,0 +1,66 @@
+[
+    {
+        "image": "https://i.ibb.co/xSfNPdQ/shovel.jpg",
+        "name": "Shovel",
+        "description": "Steel shovel with hard body",
+        "minOrderQuantity": "1000",
+        "availQuantity": "200000",
+        "price": 263
+    },
+    {
+        "image": "https://i.ibb.co/YBJ7bJK/wrench.jpg",
+        "name": "Wrench",
+        "description": "Have few magnet on the front",
+        "minOrderQuantity": "1000",
+        "availQuantity": "200000",
+        "price": 298
+    },
+    {
+        "image": "https://i.ibb.co/yP90Vpd/srewdriver.jpg",
+        "name": "Screwdriver",
+        "description": "Strong Rubber back and magnet front",
+        "minOrderQuantity": "1000",
+        "availQuantity": "200000",
+        "price": 277
+    },
+    {
+        "image": "https://i.ibb.co/4jSFz88/hammer.jpg",
+        "name": "Hammer",
+        "description": "Wood body and heavy weight",
+        "minOrderQuantity": "1000",
+        "availQuantity": "200000",
+        "price": 259
+    },
+    {
+        "image": "https://i.ibb.co/L1W3rn4/hacksaw.jpg",
+        "name": "Hacksaw",
+        "description": "Supper sharp with extra features",
+        "minOrderQuantity": "1000",
+        "availQuantity": "200000",
+        "price": 231
+    },
+    {
+        "image": "https://i.ibb.co/ZNjt5fV/naigun.jpg",
+        "name": "Nail Gun",
+        "description": "Can shoot up to 100 nails/sec",
+        "minOrderQuantity": "1000",
+        "availQuantity": "200000",
+        "price": 224
+    },
+    {
+        "image": "https://i.ibb.co/sKKH5Xz/bolt.jpg",
+        "name": "Bolts",
+        "description": "Heavy bolts up to 1kg",
+        "minOrderQuantity": "1000",
+        "availQuantity": "200000",
+        "price": 241
+    },
+    {
+        "image": "https://i.ibb.co/m4KWRM9/nut.jpg",
+        "name": "Nut",
+        "description": "Heavy nuts up to 1kg",
+        "minOrderQuantity": "1000",
+        "availQuantity": "200000",
+        "price": 269
+    }
+]

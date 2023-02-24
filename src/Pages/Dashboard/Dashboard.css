@@ -1,0 +1,12 @@
+.ul-style {
+  background-color: #151c24;
+}
+
+.li-style {
+  border: 1px solid transparent;
+}
+.li-style:hover {
+  border: 1px solid rgba(255, 255, 255, 0.205);
+  background-color: #232f3c;
+  border-radius: 999px;
+}

@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "manufacture-website-e599a",
+    "staging": "manufacture-website-e599a"
+  },
+  "targets": {},
+  "etags": {}
+}
