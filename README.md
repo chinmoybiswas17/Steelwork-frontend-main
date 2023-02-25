@@ -1,11 +1,7 @@
 # Alpha Steelwork
 
-[Open portal to Alpha Steelworks world](https://alpha-steelwork.web.app/)
+[Open portal to Alpha Steelworks world](https://manufacture-website-e599a.web.app/)
 
-### Admin credentials
-
-Email - anya@adorable.com
-Password - 123456
 
 ### Features of this application
 
@@ -39,21 +35,4 @@ Password - 123456
 - react visibility sensor
 - react inner image zoom
 
-### Homepage Screenshot
 
-![solve](https://github.com/ThakurSaad/alpha-steelwork-frontend/blob/main/src/assets/screenshot.png)
-
-### New things I realized during this project
-
-- why sent an array in useQuery
-
-### Inconsistent component name with the Project
-
-- `ToolDetails` page is `Purchase` page
-
-### Working hours
-
-- Day 1 : `10:00` hours
-- Day 2 : `10:00` hours
-- Day 3 : `04:00` hours
-- Day 4 : `08:00` hours (completed for 60 and some extra features)
